@@ -2,7 +2,7 @@
 --discord link https://discord.gg/vQQqcgBWCG
 _G.Aimbot_Settings={
     Enabled=true,--true,false  set to true to enable aimbot set to false to disable
-    Silent=true,--true,false  set to true to enable silent aim mode, set to false to disable silent aim
+    Silent=false,--true,false  set to true to enable silent aim mode, set to false to disable silent aim
     Target="Head",--All,Ends,LeftHand,Abdomen,RightLeg,Hips,RightFoot,LeftArm,LeftForearm,RightForearm,RightForeleg,RightHand,Chest,RightArm,Neck,Head,LeftForeleg,LeftLeg,LeftFoot
     Auto_Shoot=false,--true,false  set to true to automaticly shoot enemys when you aim,set to false to disable
     Auto_Aim=false,--true,false  set to true to automaticly aim and target players,set to false to disable
